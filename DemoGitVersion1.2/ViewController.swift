@@ -8,7 +8,19 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Amul")
+        print("Anmol")
+        print("Anmol")
+        print("Anmol")
+        print("Anmol")
+        print("Anmol")
+        print("Anmol")
+        print("Anmol12")
+        print("Anmol13")
+        print("Anmo14l")
+        print("Anmol15")
+        print("Dhoodh Pita Hai India")
+        print("Dhoodh Pita Hai India")
+        print("Dhoodh Pita Hai India")
         print("Dhoodh Pita Hai India")
         
         
