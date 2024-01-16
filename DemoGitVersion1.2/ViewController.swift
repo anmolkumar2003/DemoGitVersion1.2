@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         print("na mano bhai tume khud pta chal jayega.....! &_&")
         print("Sab paise ka khel hai Moh Maya Hai")
         
+        print("Voh toh hai hi inko bhi pta hai fir bhi logo ko kharid re hai quality bhi nai hai sab bakwaas hai nakli dhuudh.....@!")
+        
         print("Advertisement hai bas Dhoodh Amul Pita Hai India ^_^")
         
         print("Roz")
