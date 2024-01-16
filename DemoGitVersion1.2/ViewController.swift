@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("Anmol15")
         
         print("Anmol is a good boy")
+        print("Anmol is a good boy")
         print("Anmol")
         print("Anmol")
         
