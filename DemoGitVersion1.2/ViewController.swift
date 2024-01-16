@@ -8,10 +8,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("Hehehehehehe ^_-......")
+        
+       print("chalo apne advocate ko lekar aao case start karte hai ^_^ ......")
+        
+       print("bina kisi bak**** ^_^")
        
     }
 
-    print("Jo Jeeta Wohi Sikandar Baaki Sab Bandarrrrrrr")
+    
 }
 
