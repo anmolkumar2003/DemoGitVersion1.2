@@ -10,6 +10,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Amul")
         print("Dhoodh Pita Hai India")
+        
+        
+        print("Sab Bakwass hai Juth bolte hai nakli dhuudh hai")
+
+        
         print("Roz")
     }
 
