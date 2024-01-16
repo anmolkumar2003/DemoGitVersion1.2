@@ -8,7 +8,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("Vaise Verka hi Better hai")
+       print("Isse Pehle tu kuch likhe main hi likh de deta hoon ^_^....")
     }
 
 
