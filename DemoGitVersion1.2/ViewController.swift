@@ -8,7 +8,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Today is Wednesday.....!")
+        print("Only 2 days left fir party!......")
     
        
     }
